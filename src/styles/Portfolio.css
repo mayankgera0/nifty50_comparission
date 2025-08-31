@@ -1,0 +1,87 @@
+.portfolio-container {
+  padding: 32px 48px;
+  background: #fafcff;
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.returns-table-section {
+  margin-bottom: 32px;
+}
+
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(48,57,90,0.08);
+  padding: 0;
+}
+
+.returns-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.returns-table th, .returns-table td {
+  padding: 10px 12px;
+  text-align: center;
+  border-bottom: 1px solid #ececec;
+}
+
+.returns-table th {
+  color: #3a4155;
+  font-weight: 700;
+}
+
+
+.fund-name {
+  font-weight: bold;
+  color: #2563eb;
+}
+
+.positive {
+  color: #22c55e;
+  font-weight: 600;
+}
+
+.negative {
+  color: #ef4444;
+  font-weight: 600;
+}
+
+.returns-note {
+  font-size: 13px;
+  color: #6b7280;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.chart-section {
+  margin: 24px 0 40px 0;
+  padding: 18px;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(48,57,90,0.06);
+}
+
+.chart-title {
+  font-size: 17px;
+  color: #3a4155;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.charts-section {
+  margin: 32px 0;
+  padding: 24px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(48,57,90,0.08);
+}
+
+
+
+
+
+
