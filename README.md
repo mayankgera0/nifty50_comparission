@@ -1,5 +1,4 @@
 # Portfolio Management App
-
 A modern React + TypeScript web application for tracking and visualizing portfolio performance, including trailing returns, drawdowns, and benchmark comparisons.
 
 ## Features
